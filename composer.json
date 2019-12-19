@@ -1,0 +1,10 @@
+{
+  "require": {
+    "PrestaShop/PrestaShop-webservice-lib": "dev-master"
+  },
+  "autoload": {
+    "files" : [
+      "vendor/prestashop/prestashop-webservice-lib/PSWebServiceLibrary.php"
+    ]
+  }
+}
